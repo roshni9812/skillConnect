@@ -1,6 +1,4 @@
-# jobportal-yt (prepared)
 
-I prepared a ready-to-run copy of the project. Follow these steps to run locally.
 
 ## Backend (API)
 1. Open terminal and go to `backend` folder:
